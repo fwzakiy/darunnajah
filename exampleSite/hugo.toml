@@ -1,9 +1,9 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/educenter/site/"
-title = "Educenter | hugo education template"
+baseURL = "https://prodi.darunnajah.ac.id/"
+title = "Program Studi XXX - Universitas Darunanjah"
 theme = "educenter-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "Asia/Jakarta"
 # post pagination
 paginate = 6 # see https://gohugo.io/extras/pagination/
 # post excerpt
@@ -93,12 +93,12 @@ link = "plugins/google-map/gmap.js"
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Situs web resmi Program Studi XXX Universitas Darunnajah."
+author = "Universitas Darunnajah"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
+address = "Ulujami, Pesanggrahan, Jakarta Selatan"
 mobile = "+211234565523"
-email = "info@educenter.com"
+email = "digital@darunnajah.ac.id"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -168,7 +168,7 @@ weight = 1
 [Languages.en.params]
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)"
+copyright = "Hak cipta &copy; 2023 a hugo theme by [Badan Pengelola Teknologi Informasi](https://bpti.darunnajah.ac.iid/) Universitas Darunnajah."
 
 
 
